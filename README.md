@@ -8,6 +8,7 @@ The COVID-19 Pandemic has disrupted learning for more than 56 million students i
 
 # First, Get an overview of the dataset:
 -By download the dataset from Kaggle Competition to Colab directly( kaggle competitions download -c learnplatform-covid19-impact-on-digital-learning )
+
 ![image](https://user-images.githubusercontent.com/48545560/131376293-03d8b01f-883c-45ed-804e-e57e710e2e48.png)
 
 # Second, Preprocessing Data:
